@@ -1,4 +1,4 @@
-import json
+﻿import json
 
 
 def childs(the_class):
