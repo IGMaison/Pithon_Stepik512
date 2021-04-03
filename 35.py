@@ -1,4 +1,4 @@
-import csv
+﻿import csv
 
 crimes2015 = {}
 with open('crimes.csv', 'r') as crime_file:
